@@ -4,7 +4,6 @@ import dollarCoin from "./dollar-coin.png";
 import dailyReward from "./daily-reward.png";
 import dailyCipher from "./daily-cipher.png";
 import dailyCombo from "./daily-combo.png";
-import mainCharacter from "./main-character.png";
 import Logopreview from "./Logopreview.png";
 import hamsterCoin from "./hamster-coin.png";
 
@@ -15,7 +14,6 @@ export {
     dailyReward,
     dailyCipher,
     dailyCombo,
-    mainCharacter,
     Logopreview,
     hamsterCoin
 };
